@@ -4,7 +4,7 @@
   "description": "Vuejs studies and testings.",
   "main": "index.js",
   "repository": "https://github.com/jsi1v4/vuejs-helloworld.git",
-  "author": "Jsi1v4 <me@jsi1v4.dev>",
+  "author": "Jsi1v4 <git@jsi1v4.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
